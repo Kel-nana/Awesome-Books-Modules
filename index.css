@@ -103,6 +103,11 @@ p {
   margin-right: 25%;
 }
 
+.date {
+  display: flex;
+  margin-top: 100px;
+}
+
 .remove {
   padding: 5px;
   font-size: 15px;
@@ -146,7 +151,7 @@ p {
   justify-content: center;
   align-items: center;
   gap: 20px;
-  margin-top: 20px;
+  margin-top: 0;
 }
 
 #addBook {
@@ -155,7 +160,7 @@ p {
   justify-content: center;
   align-items: center;
   gap: 20px;
-  margin-top: 20px;
+  margin-top: 0;
 }
 
 nav {
